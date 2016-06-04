@@ -16,6 +16,8 @@ Go to https://github.com/settings/applications#personal-access-tokens and Genera
 
 ### Step 2 - add an environment variable to your Travis-CI project.
 
+<!-- more -->
+
 1. Go to project Settings and choose Environment Variables
 2. Variable Name: DEPLOY_REPO
 3. Variable Value: https://{github_access_token}@github.com/{github_username}/{repository_name}.git (for example: https://8260b82839xx2d19387a51bafca4d5425da7@github.com/ruanyl/ruanyl.github.io.git)
