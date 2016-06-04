@@ -1,9 +1,10 @@
 ---
-title:  "Continuous Integration Your Hexo Blog With Travis CI"
-date:   2015-03-09 09:47:20
+title: Continuous Integration Your Hexo Blog With Travis CI
+date: 2015-03-09 09:47:20
 categories: Javascript
-tags: CI
+tags: Blog
 author: Bigruan
+keywords: è½¬è½½
 ---
 
 Everything works fine after migrating my blog to [hexo](http://hexo.io), it's just not cool that everytime I have to run *hexo deploy* to publish my posts.
@@ -59,4 +60,4 @@ You have to add the theme repo as a gitmodule, add a file named: .gitmodules und
     url = https://github.com/ruanyl/hexo-theme-alex.git
 ```
 
-### ×ªÔØ×Ô [Bigruan](Bloghttp://blog.bigruan.com/2015-03-09-Continuous-Integration-Your-Hexo-Blog-With-TravisCI/)
+### è½¬è½½è‡ª [Bigruan](Bloghttp://blog.bigruan.com/2015-03-09-Continuous-Integration-Your-Hexo-Blog-With-TravisCI/)
