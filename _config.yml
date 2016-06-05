@@ -5,7 +5,7 @@
 # Site
 title: My Pages
 subtitle: Hexo
-description: Github Pages
+description: 鍏充簬TA
 author: lzhr
 email: lzhrsmile@gmail.com
 language: 
@@ -86,22 +86,6 @@ sitemap:
 # in theme directory(source/images): /images/avatar.jpg
 # in site  directory(source/uploads): /uploads/avatar.jpg
 avatar: https://avatars2.githubusercontent.com/u/6972978
-
-# Duoshuo ShortName
-duoshuo_shortname: lzhr
-
-# Share
-duoshuo_share: true
-
-# 多说热评文章 true 或者 false
-duoshuo_hotartical: true
-
-# Show number of visitors to each article.
-# You can visit https://leancloud.cn get AppID and AppKey.
-leancloud_visitors:
-  enable: true
-  app_id: FXwn0MHFWo5wWibUiNCIw62N-gzGzoHsz
-  app_key: j4662uq1cf2WzVD7vPO0Ntrb
   
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html

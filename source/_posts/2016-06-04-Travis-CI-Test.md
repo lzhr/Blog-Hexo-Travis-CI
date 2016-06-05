@@ -1,7 +1,7 @@
 ---
 title: 测试Travis CI
 category: 技术
-tags: blog
+tags: Blog
 keywords: Travis CI
 description: 
 ---
