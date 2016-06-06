@@ -1,5 +1,6 @@
 ---
-title: 使用prose.io
+title: prose
 tags: prose
+published: true
 ---
 ## A New Post from prose.io
