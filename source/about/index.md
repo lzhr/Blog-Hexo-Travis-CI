@@ -19,6 +19,6 @@ published: true
 
 基于Github Issue：[Issues Blog](http://lzhr.oschina.io/issues-blog)
 
-![favicon.ico](/favicon.ico)
+![favicon.ico](https://raw.githubusercontent.com/lzhr/Blog-Hexo-Travis-CI/master/source/favicon.ico)
 
 
