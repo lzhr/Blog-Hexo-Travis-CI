@@ -13,5 +13,10 @@ published: true
 
 ## 其他：
 
-- 我的另一个轻量博客：[Airpub](http://lzhr.github.io/airpub1)
-- 折腾的Jekyll：[MyJekyll](http://lzhr.oschina.io/myjekyll/archives.html)
+我的另一个轻量博客：[Airpub](http://lzhr.github.io/airpub1)
+
+折腾的Jekyll：[MyJekyll](http://lzhr.oschina.io/myjekyll/archives.html)
+
+![favicon.ico]({{site.baseurl}}/source/favicon.ico)
+
+
