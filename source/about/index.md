@@ -17,6 +17,8 @@ published: true
 
 折腾的Jekyll：[MyJekyll](http://lzhr.oschina.io/myjekyll/archives.html)
 
+基于Github Issue：[Issues Blog](http://lzhr.oschina.io/issues-blog)
+
 ![favicon.ico](/favicon.ico)
 
 
