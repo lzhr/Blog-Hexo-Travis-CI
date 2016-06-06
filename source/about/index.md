@@ -17,6 +17,6 @@ published: true
 
 折腾的Jekyll：[MyJekyll](http://lzhr.oschina.io/myjekyll/archives.html)
 
-![favicon.ico]({{site.baseurl}}/source/favicon.ico)
+![favicon.ico](/favicon.ico)
 
 
