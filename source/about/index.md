@@ -17,7 +17,7 @@ published: true
 
 折腾的Jekyll：[MyJekyll](http://lzhr.oschina.io/myjekyll/archives.html)
 
-基于Github Issue：[Issues Blog](http://lzhr.oschina.io/issues-blog)
+基于Github Issue：[Issues Blog](http://lzhr.github.io/issues-blog)
 
 ![favicon.ico](https://raw.githubusercontent.com/lzhr/Blog-Hexo-Travis-CI/master/source/favicon.ico)
 
