@@ -11,7 +11,7 @@ published: true
 
 ## [Prose](http://prose.io#lzhr)
 
-## 其他：
+## 其他：[![](https://raw.githubusercontent.com/lzhr/hexo-theme-next/d37cf63e5027f9578e009b1715df039b7044a75e/source/images/lzhrsmilegmail.gif)](mailto:lzhrsmile@gmail.com)
 
 我的另一个轻量博客：[Airpub](http://lzhr.github.io/airpub1)
 
