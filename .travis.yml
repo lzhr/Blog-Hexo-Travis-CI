@@ -1,7 +1,10 @@
 language: node_js
 node_js:
     - "4"
-
+cache:
+  directories:
+  - ~/.m2
+  
 before_install:
     - npm install -g hexo
 
