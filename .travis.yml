@@ -4,6 +4,7 @@ node_js:
 cache:
   directories:
   - ~/.npm
+  - node_modules
   
 before_install:
     - npm install -g hexo
