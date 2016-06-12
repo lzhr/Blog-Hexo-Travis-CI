@@ -62,4 +62,4 @@ You have to add the theme repo as a gitmodule, add a file named: .gitmodules und
     url = https://github.com/ruanyl/hexo-theme-alex.git
 ```
 
-### 转载自 [Bigruan](Bloghttp://blog.bigruan.com/2015-03-09-Continuous-Integration-Your-Hexo-Blog-With-TravisCI/)
+### 转载自 [Bigruan](http://blog.bigruan.com/2015-03-09-Continuous-Integration-Your-Hexo-Blog-With-TravisCI/)

@@ -1,7 +1,11 @@
 language: node_js
 node_js:
     - "4"
-
+cache:
+  directories:
+  - ~/.npm
+  - node_modules
+  
 before_install:
     - npm install -g hexo
 
@@ -22,5 +26,5 @@ after_success:
     - git remote add origin $DEPLOY_REPO
     - cp -r ../public/* .
     - git add -A .
-    - git commit -m 'Site updated'
+    - git commit -m 'Site updated by Travis CI'
     - git push --force --quiet origin master
