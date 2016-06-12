@@ -3,7 +3,7 @@ node_js:
     - "4"
 cache:
   directories:
-  - ~/.m2
+  - ~/.npm
   
 before_install:
     - npm install -g hexo
