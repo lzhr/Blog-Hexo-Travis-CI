@@ -2,3 +2,5 @@ node_modules
 public
 /server.bat
 /db.json
+/travis-build.bat
+/build-blog.rb
