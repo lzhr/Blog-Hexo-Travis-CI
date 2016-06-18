@@ -1,8 +1,8 @@
 ---
 title: Continuous Integration Your Hexo Blog With Travis CI
 date: 2015-03-09 09:47:20
-categories: Javascript
-tags: Blog
+categories: 技术
+tags: Javascript
 author: Bigruan
 keywords: 转载
 ---
