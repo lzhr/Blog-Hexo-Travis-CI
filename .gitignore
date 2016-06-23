@@ -3,4 +3,4 @@ public
 /server.bat
 /db.json
 /travis-build.bat
-
+.deploy_git
