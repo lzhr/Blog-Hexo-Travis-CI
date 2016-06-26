@@ -4,3 +4,4 @@ public
 /db.json
 /travis-build.bat
 .deploy_git
+/build-blog.rb
